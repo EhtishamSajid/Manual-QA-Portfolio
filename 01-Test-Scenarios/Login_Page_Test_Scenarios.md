@@ -2,12 +2,19 @@
 
 ## Functional Testing
 TS-001: Verify login with valid credentials.
+
 TS-002: Verify login with invalid credentials.
+
 TS-003: Verify mandatory field validation.
+
 TS-004: Verify username length validation.
+
 TS-005: Verify password length validation.
+
 TS-006: Verify Submit button functions correctly.
+
 TS-007: Verify Forgot Password functionality.
+
 TS-008: Verify Registration link functionality.
 
 ## UI Testing
