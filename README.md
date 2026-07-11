@@ -1,35 +1,45 @@
-Manual QA Portfolio
+# Manual QA Portfolio
 
-Welcome to my Manual QA Portfolio.
+Welcome to my **Manual QA Portfolio**.
 
-This repository showcases my practical learning and hands-on work in Software Quality Assurance (Manual Testing).
+This repository showcases my practical learning and hands-on work in **Software Quality Assurance (Manual Testing)**.
 
-Repository Contents
-Test Scenarios
-Test Cases
-Bug Reports
-Test Plans
-Test Execution Reports
-API Testing (Postman)
-SQL Practice
-QA Interview Preparation
-Objective
+## Repository Contents
 
-The purpose of this repository is to document my QA learning journey and demonstrate practical testing skills using real-world applications and QA best practices.
+- Test Scenarios
+- Test Cases
+- Bug Reports
+- Test Plans
+- Test Execution Reports
+- Real-World Testing
+- API Testing *(In Progress)*
+- SQL Practice *(In Progress)*
 
-Tools
-Jira
-GitHub
-Postman (In Progress)
-Google Chrome DevTools
-Skills
-Manual Testing
-Functional Testing
-Regression Testing
-Smoke Testing
-Sanity Testing
-Bug Reporting
-Test Case Design
-Test Scenario Design
-SDLC
-STLC
+## Skills Demonstrated
+
+- Manual Testing
+- Functional Testing
+- Regression Testing
+- Smoke Testing
+- Sanity Testing
+- Exploratory Testing
+- Test Scenario Design
+- Test Case Design
+- Bug Reporting
+- Defect Life Cycle
+- SDLC
+- STLC
+- Black Box Testing
+- Equivalence Class Partitioning (ECP)
+- Boundary Value Analysis (BVA)
+
+## Tools
+
+- Jira (Basic)
+- GitHub
+- Google Chrome DevTools
+- Postman *(Learning in Progress)*
+
+## Objective
+
+To demonstrate practical Manual QA skills through structured documentation and real-world testing exercises.
