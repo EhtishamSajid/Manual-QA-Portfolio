@@ -12,6 +12,7 @@ TS-008: Verify Registration link functionality.
 
 ## UI Testing
 TS-009: Verify alignment of UI components.
+
 TS-010: Verify placeholder text is displayed correctly.
 
 ## Validation Testing
@@ -25,6 +26,7 @@ TS-013: Verify login page on mobile devices.
 
 ## Security Testing
 TS-014: Verify password is masked.
+
 TS-015: Verify user cannot access dashboard after logout.
 
 ## Performance Testing
